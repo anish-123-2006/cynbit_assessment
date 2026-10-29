@@ -103,7 +103,7 @@ export function generateDeterministicSummary(data: DiscoveryFormData): ProjectSu
     recommendedDirection,
     relevantCapabilities: capabilities,
     followUpQuestions: followUpQuestions.slice(0, 3),
-    nextStep: "Schedule a 20-minute exploratory discovery session with a Cynbit solution architect.",
+    nextStep: "Schedule a potential focused discovery conversation with the Cynbit team.",
     confidence: "Initial",
     disclaimer:
       "This is an initial exploratory assessment based strictly on the parameters you provided. Final system architecture, technical dependencies, and milestones require collaborative engineering discovery.",

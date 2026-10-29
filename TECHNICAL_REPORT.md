@@ -50,7 +50,7 @@ Through direct HTTP inspection and JavaScript bundle analysis, several critical 
 
 4. Delayed Gratification
    "24 H Response Sync"
-   └── Leads cool down; requires 3+ back-and-forth emails before speaking to an engineer.
+   └── Leads cool down; often requires back-and-forth emails before speaking to an engineer.
 ```
 
 ---
