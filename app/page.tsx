@@ -39,7 +39,7 @@ export default function HomePage() {
 
           {/* Supporting Text */}
           <p className="text-base sm:text-lg text-gray-300 max-w-2xl leading-relaxed">
-            Skip the blank contact box. Answer a few guided questions about your workflows, systems, and goals. The Cynbit Discovery Assistant will formulate an initial architecture brief and map relevant capabilities before your discovery call.
+            Skip the blank contact box. Answer a few guided questions about your workflows, systems, and goals. The Discovery Assistant generates an initial project brief (AI-assisted when an AI provider is configured; offline mode uses a deterministic fallback) to help frame your project before an introductory call.
           </p>
 
           {/* Primary & Secondary CTAs */}
@@ -111,7 +111,7 @@ export default function HomePage() {
                 2. Instant Preliminary Brief
               </h3>
               <p className="text-xs text-gray-400 leading-relaxed">
-                Receive an AI-synthesized architectural direction highlighting relevant Cynbit capabilities and critical discovery questions for your team.
+                Receive a structured preliminary direction highlighting relevant Cynbit capabilities and critical discovery questions (AI-assisted when configured, with a deterministic fallback for offline evaluation).
               </p>
             </div>
 
@@ -120,10 +120,10 @@ export default function HomePage() {
                 <Clock className="w-5 h-5" />
               </div>
               <h3 className="text-base font-bold text-white tracking-tight">
-                3. Direct Discovery Scheduling
+                3. Context-First Scheduling
               </h3>
               <p className="text-xs text-gray-400 leading-relaxed">
-                Eliminate 4 rounds of scheduling emails. Lock in an exploratory 20-minute video slot directly with our senior architects in Jaipur.
+                Reduce initial scheduling back-and-forth by sharing project context before a potential discovery conversation.
               </p>
             </div>
           </div>

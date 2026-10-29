@@ -51,7 +51,7 @@ export function Navbar() {
           </Link>
           <div className="flex items-center space-x-1.5 text-emerald-400/90 bg-emerald-950/40 border border-emerald-500/20 px-2.5 py-1 rounded-full font-mono text-[11px]">
             <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-ping" />
-            <span>Available for Q4/Q1 Projects</span>
+            <span>Now accepting discovery conversations</span>
           </div>
         </nav>
 

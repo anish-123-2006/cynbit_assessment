@@ -37,7 +37,7 @@ export function ContactDetails({
         <div className="inline-flex items-center space-x-2 text-xs font-mono uppercase tracking-widest text-brand-cyan">
           <span>Step 4</span>
           <span>•</span>
-          <span>Final Step</span>
+          <span>Contact Details</span>
         </div>
         <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-white">
           Where should we send your preliminary project brief?
